@@ -1,2 +1,1 @@
-# testGit
-Test Git
+# huong dan hoc git
